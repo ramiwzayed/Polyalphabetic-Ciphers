@@ -1,4 +1,4 @@
-# Polyalphabetic-Ciphers
+# Polyalphabetic-Cipher
 A set of related monoalphabetic substitution rules is used 
 A key determines which particular rule is chosen for a given transformation
 # Rules Encrypt
